@@ -1,0 +1,15 @@
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\bin\Debug\net7.0\HerencaMultipla.exe
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\bin\Debug\net7.0\HerencaMultipla.deps.json
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\bin\Debug\net7.0\HerencaMultipla.runtimeconfig.json
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\bin\Debug\net7.0\HerencaMultipla.dll
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\bin\Debug\net7.0\HerencaMultipla.pdb
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.csproj.AssemblyReference.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.AssemblyInfoInputs.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.AssemblyInfo.cs
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.dll
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\refint\HerencaMultipla.dll
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.pdb
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\HerencaMultipla.genruntimeconfig.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerencaMultipla\HerencaMultipla\obj\Debug\net7.0\ref\HerencaMultipla.dll

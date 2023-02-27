@@ -1,0 +1,15 @@
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.csproj.AssemblyReference.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.AssemblyInfoInputs.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.AssemblyInfo.cs
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\bin\Debug\net6.0\HerancaeInterface.exe
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\bin\Debug\net6.0\HerancaeInterface.deps.json
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\bin\Debug\net6.0\HerancaeInterface.runtimeconfig.json
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\bin\Debug\net6.0\HerancaeInterface.dll
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\bin\Debug\net6.0\HerancaeInterface.pdb
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.dll
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\refint\HerancaeInterface.dll
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.pdb
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\HerancaeInterface.genruntimeconfig.cache
+D:\Projetos C#\Seção 14 - Interfaces\HerancaeInterface\HerancaeInterface\obj\Debug\net6.0\ref\HerancaeInterface.dll

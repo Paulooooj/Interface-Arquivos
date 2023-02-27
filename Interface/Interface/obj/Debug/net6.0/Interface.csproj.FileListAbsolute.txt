@@ -1,0 +1,15 @@
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\bin\Debug\net6.0\Interface.exe
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\bin\Debug\net6.0\Interface.dll
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.dll
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\Projetos C#\Seção 14 - Interfaces\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
